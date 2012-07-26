@@ -1,0 +1,52 @@
+<game>
+<map title="test 1" background="huegbg.jpg" maxy="770" height="770" width="8000">
+<ground x="92" y="543" w="28" h="50" color="image" image="buildingmaterials/buildingedge1.png" />
+<ground x="-74" y="667" w="13" h="24" color="image" image="buildingmaterials/buildingedge1.png" />
+<ground x="304" y="551" w="78" h="52" color="image" image="buildingmaterials/buildingedge1.png" />
+<ground x="512" y="553" w="185" h="44" color="image" image="buildingmaterials/buildingedge1.png" />
+<ground x="715" y="565" w="82" h="86" color="image" image="buildingmaterials/buildingedge1.png" />
+<ground x="98" y="330" w="6" h="0" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="927" y="539" w="28" h="15" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="1128" y="512" w="13" h="10" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="1335" y="607" w="13" h="12" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="1525" y="679" w="38" h="22" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="1736" y="700" w="59" h="8" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="1694" y="739" w="27" h="1" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="1894" y="674" w="96" h="30" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="2075" y="594" w="37" h="23" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="2155" y="651" w="44" h="40" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="2155" y="651" w="182" h="7" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="2338" y="670" w="94" h="82" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="2517" y="642" w="123" h="88" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="2699" y="598" w="82" h="52" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="2881" y="577" w="90" h="91" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="3064" y="592" w="103" h="76" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="3192" y="628" w="98" h="76" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="3171" y="543" w="18" h="11" color="image" image="buildingmaterials/buildingtop1.png" />
+<ground x="3176" y="447" w="17" h="7" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="3373" y="451" w="33" h="5" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="3569" y="452" w="65" h="8" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="3768" y="455" w="37" h="14" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="3968" y="459" w="123" h="32" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="4169" y="461" w="148" h="47" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="4357" y="474" w="116" h="26" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="4557" y="485" w="100" h="46" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="4570" y="257" w="34" h="23" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="4755" y="488" w="31" h="15" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="4759" y="293" w="10" h="4" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="4957" y="297" w="31" h="16" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="4973" y="508" w="22" h="21" color="image" image="buildingmaterials/buildingedgeend1.png" />
+<ground x="5157" y="299" w="19" h="16" color="image" image="buildingmaterials/buildingedgeend2.png" />
+<ground x="5164" y="516" w="20" h="12" color="image" image="buildingmaterials/buildingedgeend2.png" />
+<ground x="5340" y="657" w="678" h="102" color="010,010,010" />
+<ground x="6013" y="706" w="726" h="52" color="010,010,010" />
+<ground x="6740" y="713" w="736" h="49" color="010,010,010" />
+<ground x="7468" y="721" w="486" h="37" color="010,010,010" />
+<object x="400" y="650" type="1" />
+<object x="1400" y="650" type="1" />
+<object x="2000" y="350" type="1" />
+<object x="6400" y="650" type="0" />
+<object x="4400" y="550" type="2" />
+<object x="2300" y="550" type="2" />
+</map>
+</game>

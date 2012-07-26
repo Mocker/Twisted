@@ -1,0 +1,8 @@
+<game>
+<map title="test 1" background="bigbackground.jpg" maxy="770" height="771" width="2008">
+<ground x="0" y="700" w="2008" h="50" color="020,020,020" />
+<ground x="300" y="550" w="300" h="200" color="010,010,010" />
+<ground x="650" y="260" w="200" h="390" color="020,020,020" />
+<ground x="1100" y="300" w="300" h="450" color="image" image="samplebuild.png" />
+</map>
+</game>

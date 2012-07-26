@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/blastwave/!svn/ver/236/trunk/Twisted/lib
+END
+levels.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/blastwave/!svn/ver/227/trunk/Twisted/lib/levels.py
+END
+editorController.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/blastwave/!svn/ver/227/trunk/Twisted/lib/editorController.py
+END
+player.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/blastwave/!svn/ver/231/trunk/Twisted/lib/player.py
+END
+edmain.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/blastwave/!svn/ver/200/trunk/Twisted/lib/edmain.py
+END
+edtitleController.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/blastwave/!svn/ver/200/trunk/Twisted/lib/edtitleController.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/blastwave/!svn/ver/204/trunk/Twisted/lib/settings.py
+END
+animations.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/blastwave/!svn/ver/228/trunk/Twisted/lib/animations.py
+END
+data.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/blastwave/!svn/ver/181/trunk/Twisted/lib/data.py
+END
+gameController.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/blastwave/!svn/ver/236/trunk/Twisted/lib/gameController.py
+END
+map.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/blastwave/!svn/ver/236/trunk/Twisted/lib/map.py
+END
+testlevel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/blastwave/!svn/ver/193/trunk/Twisted/lib/testlevel.xml
+END
+bulletX.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/blastwave/!svn/ver/236/trunk/Twisted/lib/bulletX.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/blastwave/!svn/ver/227/trunk/Twisted/lib/main.py
+END
+titleController.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/blastwave/!svn/ver/210/trunk/Twisted/lib/titleController.py
+END
+robot.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/blastwave/!svn/ver/228/trunk/Twisted/lib/robot.py
+END
+edmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/blastwave/!svn/ver/200/trunk/Twisted/lib/edmap.py
+END

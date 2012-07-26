@@ -1,0 +1,5 @@
+<game>
+<map title="test 1" background="bigbackground.jpg" maxy="770" height="771" width="2008">
+<ground x="0" y="650" w="2008" h="50" />
+</map>
+</game>

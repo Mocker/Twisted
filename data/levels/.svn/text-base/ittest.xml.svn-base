@@ -1,0 +1,7 @@
+<game>
+<map title="blar blar 1" background="bigbigcity.jpg" maxy="770" height="770" width="3200">
+<ground x="216" y="184" w="261" h="490" color="010,010,010" />
+<ground x="566" y="277" w="72" h="110" color="image" image="samplebuild.png" />
+<ground x="664" y="82" w="267" h="242" color="010,010,010" />
+</map>
+</game>

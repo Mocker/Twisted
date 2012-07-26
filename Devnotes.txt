@@ -1,0 +1,99 @@
+MAP EDITOR DONE (For the most part):
+
+TO DO:
+COLLISION CHECKING (ugh ugh)
+Modify enemies - collisions, ai.. more types and animations.
+Sprites - maybe some giant skyish background image
+Levels - add an 'end object' that can define where the player needs to get to to beat the level
+objects - more interaction.. animations? Destructible?
+Code actions for main character - block, out of breath etc
+GUI - .. lives, time, score.. vertigo? 
+CREATE FUN PLAY LEVELS
+Save game function?
+Use astors building tiles to create a set of maps in a level
+Create 'bullet' class. Players suitcase for player.. maybe robo bullets or lazers or something for robots
+	-- time_to_live, animation set, (damage?), x, y, dx, dy
+add enemies to level xml file? start x, starty, type, time_entered or maybe wave#(if all existing enemies are dead, add next wave..)
+
+
+** add sound effects class
+** add background_music class
+record some sound effects and background music
+
+*Right now the editor cannot create multiple maps on the same level file. To do this we'll need to create multiple level files, then copy & paste the "<map .. /map>" part
+
+
+Running out of time :(
+
+
+TWISTED:
+
+
+Details:
+
+2d platformer climbing/jumping from skyscrapers
+silehoutes of buildings
+kinda like http://www.bluejake.com/archives/2003/07/17/skyline_silhouettes.php as the whole level with the actual gameplay
+mostly zoomed in
+climb up the sides of buildings
+get chased by robot dudes (on foot and in flying vehicles, maybe parachuting/jumping from helicopters)
+
+backgrounds by homey!
+
+objective? To escape? background story?
+
+ART To do:
+
+Main Character:
+1:  Walk Anim : Done
+2:  Run Anim  : Done
+3:  Standing Anim  :  Done
+4:  Briefcase Shield Anim  :  Done
+5:  Tired/Out of Breath Anim  :  Done
+6:  Throw Briefcase Anim  :  Done
+7:  Climb Anim  :
+8:  Jump Anim  :  Done
+9:  Knockdown Anim  :
+10: Death Anim  :
+11: Woozy Anim  :
+12: Fallen to Death Spin Anim  :
+
+Enemy Robots:
+1:  Big With Chase and Grab Anim : Chase Done
+2:  Small Ones With Chase and Grab Anim : Chase Done
+3:  Flying Ones With Chase and Dive Anim
+4:  Large Stomper Boss Thing?
+
+Environments:
+1:  Cityscape Foreground 1  :
+2:  Cityscape Background 1  :
+
+# twined: wound or wrapped around something; "hair twined around her fingers"; "bulky with twisted stitches around the edges"
+# contorted: strained or wrenched out of normal shape; "old trees with contorted branches"; "scorched and distorted fragments of steel"; "trapped under twisted steel girders"
+# distorted: having an intended meaning altered or misrepresented; "many of the facts seemed twisted out of any semblance to reality"; "a perverted translation of the poem" 
+(TWIST-ed) -- Having parts that are spriraling or corkscrew-like
+
+Twisted surface (Geom.), a surface described by a straight
+      line moving according to any law whatever, yet so that the
+      consecutive positions of the line shall not be in one
+      plane; a warped surface.
+
+
+22:41 < As> But he's actually going to be walking on the building tops, jumping from building to building, being chased by robots.
+22:41 < An> what are you serious?
+22:41 < As> He's just an ordinary business guy except for one thing...
+22:41 < An> (you keep saying my name)
+22:41 < kevin> ...he's super bouncy?
+22:41 < As> He has vertigo!
+22:41 < mocker> that's a sexy screenshot
+22:41 < As> His vertigo gives him super powers.
+22:42 < As> When he gets closer to the edge of a long drop, and depending on the drop height, he gets more wobbly.  Too close, he will fall off the building completely, but just right, he has the power to jump like a super bouncy!
+22:42 < As> But I need to get to work now.
+22:42 < As> So peace for shizzles.
+22:43 < As> (PS:  Pyweek is a one week proggy contest.)
+22:43 < An> okay funtimes
+22:43 < As> Also, he can throw his briefcase.
+22:43 < As> And use it to block shit.
+22:44 < mocker> just like any businessman realy
+22:44 < mocker> I think this will have mass apeal because people can relate
+22:44 < As> 'Course, who hasn't been chased by robots.

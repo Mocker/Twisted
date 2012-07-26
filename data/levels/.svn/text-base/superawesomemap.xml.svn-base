@@ -1,0 +1,18 @@
+<game>
+<map title="test 3" background="huegbg.jpg" maxy="770" height="771" width="8000">
+
+</map>
+<map title="test 1" background="bigbigcity.jpg" maxy="770" height="771" width="2008">
+<ground x="0" y="650" w="2008" h="50" color="010,010,010" />
+<object x="1650" y="500" type="0" />
+<object x="1400" y="550" type="1" />
+</map>
+<map title="test 2" background="bigbigcity.jpg" maxy="770" height="771" width="2008">
+<ground x="0" y="650" w="2008" h="50" color="010,010,010" />
+<ground x="400" y="450" w="400" h="50" color="010,010,010" />
+<ground x="1200" y="350" w="400" h="50" color="010,010,010" />
+<ground x="1500" y="450" w="400" h="50" color="010,010,010" />
+<object x="1350" y="200" type="0" />
+<object x="450" y="560" type="2" />
+</map>
+</game>
